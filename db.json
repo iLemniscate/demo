@@ -52,7 +52,7 @@
       ]
     }
   ],
-  "playes": [
+  "players": [
     { "id": 1, "score": 0, "life": 3 },
     { "id": 2, "score": 0, "life": 3 }
   ],
