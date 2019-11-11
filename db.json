@@ -73,8 +73,17 @@
     { "id": 1, "score": 0, "life": 3 },
     { "id": 2, "score": 0, "life": 3 }
   ],
-  "upupplayers": [
-    { "name": "test", "score": 99}
+  "posts": [
+    { "name": "test", "score": 99},
+    { "name": "test2", "score": 12},
+    { "name": "test3", "score": 2},
+    { "name": "test4", "score": 58},
+    { "name": "test5", "score": 84},
+    { "name": "test6", "score": 21},
+    { "name": "test7", "score": 52},
+    { "name": "test8", "score": 120},
+    { "name": "test9", "score": 7},
+    { "name": "test10", "score": 43}
   ],
   "profile": {
     "name": "typicode"
